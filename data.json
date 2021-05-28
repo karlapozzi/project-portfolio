@@ -7,7 +7,7 @@
       "technologies": ["JavaScript"],
       "live_link": "https://karlapozzi.github.io/random-quote-generator/",
       "github_link": "https://github.com/karlapozzi/random-quote-generator",
-      "image_urls": ["/images/project1_quote1.jpg", "/images/project1_quote2.jpg", "/images/project1_quote3.jpg"]
+      "image_urls": ["/static/images/project1_quote1.png", "/static/images/project1_quote2.png", "/static/images/project1_quote3.png"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["JavaScript"],
       "live_link": "https://karlapozzi.github.io/data-pagination-and-filtering-project/",
       "github_link": "https://github.com/karlapozzi/data-pagination-and-filtering-project",
-      "image_urls": ["/images/project2_main.jpg", "/images/project2_search.jpg", "/images/project2_no_results.jpg"]
+      "image_urls": ["/static/images/project2_main.png", "/static/images/project2_search.png", "/static/images/project2_no_results.png"]
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "technologies": ["JavaScript", "HTML (forms + accessibility)"],
       "live_link": "https://karlapozzi.github.io/interactive-form/",
       "github_link": "https://github.com/karlapozzi/interactive-form",
-      "image_urls": ["/images/project3_main.jpg", "/images/project3_activities.jpg", "/images/project3_cc.jpg"]
+      "image_urls": ["/static/images/project3_main.png", "/static/images/project3_activities.png", "/static/images/project3_cc.png"]
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "technologies": ["JavaScript", "Object-Oriented Programming"],
       "live_link": "https://karlapozzi.github.io/affirmation-phrase-game-show-app/",
       "github_link": "https://github.com/karlapozzi/affirmation-phrase-game-show-app",
-      "image_urls": ["/images/project4_main.jpg", "/images/project4_phrase.jpg", "/images/project4_win.jpg", "/images/project4_lose.jpg"]
+      "image_urls": ["/static/images/project4_main.png", "/static/images/project4_phrase.png", "/static/images/project4_win.png", "/static/images/project4_lose.png"]
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "technologies": ["JavaScript", "API requests (with HTTP and AJAX)"],
       "live_link": "https://karlapozzi.github.io/public-api-requests/",
       "github_link": "https://github.com/karlapozzi/public-api-requests",
-      "image_urls": ["/images/project5_main.jpg", "/images/project5_modal.jpg", "/images/project5_search.jpg"]
+      "image_urls": ["/static/images/project5_main.png", "/static/images/project5_modal.png", "/static/images/project5_search.png"]
     }
   ]
 }
