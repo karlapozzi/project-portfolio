@@ -19,6 +19,7 @@
   "homepage": "https://github.com/karlapozzi/project-portfolio#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.7",
     "pug": "^3.0.2"
   }
 }
