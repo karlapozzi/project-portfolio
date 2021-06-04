@@ -34,7 +34,7 @@
       "technologies": ["JavaScript", "Object-Oriented Programming"],
       "live_link": "https://karlapozzi.github.io/affirmation-phrase-game-show-app/",
       "github_link": "https://github.com/karlapozzi/affirmation-phrase-game-show-app",
-      "image_urls": ["/static/images/project4_main.png", "/static/images/project4_phrase.png", "/static/images/project4_win.png", "/static/images/project4_lose.png"]
+      "image_urls": ["/static/images/project4_phrase.png", "/static/images/project4_win.png", "/static/images/project4_lose.png"]
     },
     {
       "id": 4,
