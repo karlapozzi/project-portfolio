@@ -1,0 +1,19 @@
+extends layout.pug 
+
+block content 
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+  article.portfolio-projects
+    .inner-wrapper.flex-row-wrap.two-col
+      .project-info-box.box
+
+        h1= `Status: ${error.status} - ${error.message}`
+        h2= `Here's more stack trace info:`
+        pre= error.stack
+
+
+

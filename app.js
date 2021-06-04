@@ -22,7 +22,26 @@ app.get('/project/:id', (req, res, next) => {
   if (project) {
     res.render('project', { project });
   } else {
-    res.sendStatus(404);
+    next();
+  }
+});
+
+app.use((req, res, next) => {
+  const err = new Error();
+  err.status = 404;
+  err.message = "Uh oh! That page doesn't exist.";
+  next(err);
+});
+
+app.use((err, req, res, next) => {
+  res.locals.error = err;
+  res.locals.message = err.message;
+  res.status(err.status || 500);
+  if (err.status === 404) {
+    res.render('page-not-found');
+  } else {
+    err.message = "Something went wrong."
+    res.render('error');
   }
 });
 
