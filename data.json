@@ -25,7 +25,7 @@
       "technologies": ["JavaScript", "HTML (forms + accessibility)"],
       "live_link": "https://karlapozzi.github.io/interactive-form/",
       "github_link": "https://github.com/karlapozzi/interactive-form",
-      "image_urls": ["/static/images/project3_main.png", "/static/images/project3_activities.png", "/static/images/project3_cc.png"]
+      "image_urls": ["/static/images/project3_activities.png", "/static/images/project3_cc.png", "/static/images/project3_main.png"]
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
       "technologies": ["JavaScript", "API requests (with HTTP and AJAX)"],
       "live_link": "https://karlapozzi.github.io/public-api-requests/",
       "github_link": "https://github.com/karlapozzi/public-api-requests",
-      "image_urls": ["/static/images/project5_main.png", "/static/images/project5_modal.png", "/static/images/project5_search.png"]
+      "image_urls": ["/static/images/project5_modal.png", "/static/images/project5_main.png", "/static/images/project5_search.png"]
     }
   ]
 }
