@@ -4,7 +4,7 @@
       "id": 0,
       "project_name": "Random Quote Generator",
       "description": "My first Treehouse Techdegree project: A random quote generator using quotes from Peloton instructors.",
-      "technologies": ["JavaScript"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://karlapozzi.github.io/random-quote-generator/",
       "github_link": "https://github.com/karlapozzi/random-quote-generator",
       "image_urls": ["/static/images/project1_quote1.png", "/static/images/project1_quote2.png", "/static/images/project1_quote3.png"]
@@ -13,7 +13,7 @@
       "id": 1,
       "project_name": "Data Pagination and Filtering Project",
       "description": "My second Treehouse Techdegree project: A page that displays and paginates a list of students and student data. It also includes a search bar that filters results and updates pagination.",
-      "technologies": ["JavaScript"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://karlapozzi.github.io/data-pagination-and-filtering-project/",
       "github_link": "https://github.com/karlapozzi/data-pagination-and-filtering-project",
       "image_urls": ["/static/images/project2_main.png", "/static/images/project2_search.png", "/static/images/project2_no_results.png"]
@@ -21,8 +21,8 @@
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "My third Treehouse Techdegree project: An interactive registration form with real-time error messages for required fields, a conditional error message for email errors, and a feature that prevents users from registering for conflicting events.",
-      "technologies": ["JavaScript", "HTML (forms + accessibility)"],
+      "description": "My third Treehouse Techdegree project: An interactive registration form with real-time error messages for required fields, a conditional error message for email errors, and a feature that prevents users from registering for conflicting events. This project also has an emphasis on accessibility.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://karlapozzi.github.io/interactive-form/",
       "github_link": "https://github.com/karlapozzi/interactive-form",
       "image_urls": ["/static/images/project3_activities.png", "/static/images/project3_cc.png", "/static/images/project3_main.png"]
@@ -31,7 +31,7 @@
       "id": 3,
       "project_name": "Affirmation Phrase Game Show App",
       "description": "My fourth Treehouse Techdegree project: A Find-An-Affirmation game show app where a player guesses letters in a phrase. If the player can guess all the letters with 5 or less misses, they win!",
-      "technologies": ["JavaScript", "Object-Oriented Programming"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Object-Oriented Programming"],
       "live_link": "https://karlapozzi.github.io/affirmation-phrase-game-show-app/",
       "github_link": "https://github.com/karlapozzi/affirmation-phrase-game-show-app",
       "image_urls": ["/static/images/project4_phrase.png", "/static/images/project4_win.png", "/static/images/project4_lose.png"]
@@ -40,7 +40,7 @@
       "id": 4,
       "project_name": "Public API Requests",
       "description": "My fifth Treehouse Techdegree project: A fictitious employee directory made with a public API. It includes a search option, a pop-up modal for each employee, buttons to navigate through the list of employees when the modal is open, and some custom styling and css.",
-      "technologies": ["JavaScript", "API requests (with HTTP and AJAX)"],
+      "technologies": ["JavaScript", "Fetch and Public APIs"],
       "live_link": "https://karlapozzi.github.io/public-api-requests/",
       "github_link": "https://github.com/karlapozzi/public-api-requests",
       "image_urls": ["/static/images/project5_modal.png", "/static/images/project5_main.png", "/static/images/project5_search.png"]
