@@ -362,3 +362,20 @@ nav a span {
     max-width: 1200px;
   }
 }
+
+
+/* 
+  Custom styles 
+*/
+
+.cell:hover {
+  width: 105%;
+}
+
+a.btn-link:hover {
+  color:rgb(7, 232, 248);
+}
+
+.projects-box {
+  background-color: rgb(218, 218, 218);
+}
