@@ -43,7 +43,7 @@
       "technologies": ["JavaScript", "Fetch and Public APIs"],
       "live_link": "https://karlapozzi.github.io/public-api-requests/",
       "github_link": "https://github.com/karlapozzi/public-api-requests",
-      "image_urls": ["/static/images/project5_modal.png", "/static/images/project5_main.png", "/static/images/project5_search.png"]
+      "image_urls": ["/static/images/project5_main.png", "/static/images/project5_modal.png", "/static/images/project5_search.png"]
     }
   ]
 }
